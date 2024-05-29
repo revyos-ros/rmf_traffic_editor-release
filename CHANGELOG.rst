@@ -1,6 +1,21 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package rmf_traffic_editor_assets
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package rmf\_traffic\_editor\_assets
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1.6.2 (2023-08-10)
+------------------
+
+1.6.1 (2023-06-05)
+------------------
+* Switch changelogs to rst format.
+* Migrate to using gzsim server url for fuel (`#454 <https://github.com/open-rmf/rmf_traffic_editor/pull/454>`_)
+* Contributors: Aaron Chong, Yadunund
+
+1.6.0 (2022-10-05)
+------------------
+
+1.5.1 (2022-04-20)
+------------------
 
 1.5.0 (2022-03-13)
 ------------------
@@ -14,8 +29,8 @@ Changelog for package rmf_traffic_editor_assets
 
 1.4.0 (2021-09-02)
 ------------------
-* add ambulance icon to model_list (`#376 <https://github.com/open-rmf/rmf_traffic_editor/issues/376>`_)
-* adding maintainer for buildfarm notifications (`#368 <https://github.com/open-rmf/rmf_traffic_editor/issues/368>`_)
+* add ambulance icon to model_list (`#376 <https://github.com/open-rmf/rmf_traffic_editor/pull/376>`_)
+* adding maintainer for buildfarm notifications (`#368 <https://github.com/open-rmf/rmf_traffic_editor/pull/368>`_)
 * Contributors: Marco A. Gutiérrez, ddengster
 
 1.3.0 (2021-05-14)
@@ -27,10 +42,10 @@ Changelog for package rmf_traffic_editor_assets
 
 1.1.0 (2020-09-24)
 ------------------
-* Fixed PatientWheelChair on Fuel, updated thumbnail, added MetalCabinet `#13 <https://github.com/osrf/traffic_editor_assets/issues/13>`_
-* Fixing thumbnail orientations for models `#12 <https://github.com/osrf/traffic_editor_assets/issues/12>`_
-* Added more assets for clinic demo world `#11 <https://github.com/osrf/traffic_editor_assets/issues/11>`_
-* Feature/chart models `#10 <https://github.com/osrf/traffic_editor_assets/issues/10>`_
+* Fixed PatientWheelChair on Fuel, updated thumbnail, added MetalCabinet `#13 <https://github.com/osrf/traffic_editor_assets/pull/13>`_
+* Fixing thumbnail orientations for models `#12 <https://github.com/osrf/traffic_editor_assets/pull/12>`_
+* Added more assets for clinic demo world `#11 <https://github.com/osrf/traffic_editor_assets/pull/11>`_
+* Feature/chart models `#10 <https://github.com/osrf/traffic_editor_assets/pull/10>`_
 * Added new thumbnails for chart demos, sorted model list
 * Contributors: Aaron Chong, kevinskwk
 
