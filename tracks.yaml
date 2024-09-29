@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/rmf_traffic_editor-release.git
 tracks:
   foxy:
     actions:
