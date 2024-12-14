@@ -1,3 +1,30 @@
+## rmf_traffic_editor (humble) - 1.6.3-1
+
+The packages in the `rmf_traffic_editor` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble rmf_traffic_editor --override-release-repository-push-url git@github.com:revyos-ros/rmf_traffic_editor-release.git` on `Sat, 14 Dec 2024 07:11:15 -0000`
+
+These packages were released:
+- `rmf_building_map_tools`
+- `rmf_traffic_editor`
+- `rmf_traffic_editor_assets`
+- `rmf_traffic_editor_test_maps`
+
+Version of package(s) in repository `rmf_traffic_editor`:
+
+- upstream repository: https://github.com/open-rmf/rmf_traffic_editor.git
+- release repository: https://github.com/revyos-ros/rmf_traffic_editor-release.git
+- rosdistro version: `1.6.3-1`
+- old version: `1.6.2-1`
+- new version: `1.6.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rmf_traffic_editor (jazzy) - 1.9.1-1
 
 The packages in the `rmf_traffic_editor` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy rmf_traffic_editor --override-release-repository-push-url git@github.com:revyos-ros/rmf_traffic_editor-release.git` on `Sun, 29 Sep 2024 08:30:24 -0000`
